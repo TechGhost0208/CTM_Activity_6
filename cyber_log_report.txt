@@ -1,3 +1,54 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: irih joy
+Handle: Techghost0208
+Start Time: 2026-05-30 13:57:08.080542
+End Time: 2026-05-30 13:58:42.215786
+Duration (minutes): 1.57
+Score: 8/10
+Rating: ADVANCED
+---- Threat Logs ----
+Threat: SSH Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.6 on port
+ALERT: Failed login attempt detected from 192.168.1.95 on port
+-------------------
+Threat: SMTP Phishing Campaign
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.88 on port
+-------------------
+Threat: Proxy Web Exploit
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: HTTP Web Exploit
+WARNING: Multiple authentication failures for service
+ALERT: Failed login attempt detected from 192.168.1.76 on port
+-------------------
+Threat: RDP Brute Force Attack
+WARNING: Multiple authentication failures for service
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: Telnet Credential Theft
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.250 on port
+-------------------
+Threat: POP3 Credential Sniffing
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: HTTPS Web Exploit
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: DNS Amplification DDoS
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: MySQL Data Theft
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.131 on port
+-------------------
+===================================
 ===== CYBER THREAT LOG REPORT =====
 Name: 
 Handle:
